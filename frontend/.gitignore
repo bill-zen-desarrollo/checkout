@@ -1,0 +1,10 @@
+# Byte-compiled / cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales locales del Frontend
+venv/
+.venv/
+env/
+.env
